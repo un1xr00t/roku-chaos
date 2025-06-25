@@ -28,5 +28,5 @@ This is for **educational purposes only**. Only test on devices you own and cont
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/roku-chaos.git
+   git clone https://github.com/un1xr00t/roku-chaos.git
    cd roku-chaos
