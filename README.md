@@ -30,3 +30,6 @@ This is for **educational purposes only**. Only test on devices you own and cont
    ```bash
    git clone https://github.com/un1xr00t/roku-chaos.git
    cd roku-chaos
+   chmod +x rokuspam.sh
+   ./rokuspam.sh
+   ```
